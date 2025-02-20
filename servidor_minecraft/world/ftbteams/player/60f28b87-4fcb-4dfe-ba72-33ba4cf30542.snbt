@@ -1,0 +1,17 @@
+{
+	id: "60f28b87-4fcb-4dfe-ba72-33ba4cf30542"
+	type: "player"
+	player_name: "moreracamilo"
+	ranks: {
+		60f28b87-4fcb-4dfe-ba72-33ba4cf30542: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "moreracamilo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
