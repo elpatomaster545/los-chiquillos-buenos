@@ -2540,3 +2540,13 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [02:02:32] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
 [02:02:38] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
 [02:02:57] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[02:03:11] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[02:03:20] [Server thread/INFO]: moreracamilo has made the advancement [Can you hear it?]
+[02:04:54] [Server thread/INFO]: moreracamilo lost connection: Disconnected
+[02:04:54] [Server thread/INFO]: moreracamilo left the game
+[02:04:54] [Server thread/INFO]: remove player wand
+[02:04:54] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[02:05:13] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[02:09:35] [Server thread/INFO]: elpatomaster has made the advancement [Those Were the Days]
+[02:10:02] [Server thread/INFO]: elpatomaster has made the advancement [War Pigs]
