@@ -19856,18 +19856,6 @@
     },
     "done": true
   },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-02-20 16:31:39 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
-    "criteria": {
-      "has_iron_furnace": "2025-02-20 17:26:22 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
@@ -19877,12 +19865,6 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_trapdoor": {
-    "criteria": {
-      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
     },
     "done": true
   },
@@ -19898,51 +19880,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
-    "criteria": {
-      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_shear_dagger": {
-    "criteria": {
-      "has_shears": "2025-02-20 16:47:54 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
-    "criteria": {
-      "has_golden_helmet": "2025-02-20 16:08:31 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_slab": {
-    "criteria": {
-      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
-    "criteria": {
-      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
-    "criteria": {
-      "has_redstone_bulb": "2025-02-20 16:39:50 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_button": {
-    "criteria": {
-      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
     },
     "done": true
   },
@@ -19952,45 +19892,9 @@
     },
     "done": true
   },
-  "techreborn:ironfurnace": {
-    "criteria": {
-      "crit_0": "2025-02-20 17:26:28 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
-    "criteria": {
-      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-20 16:40:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
-    "criteria": {
-      "has_redstone_bulb": "2025-02-20 16:39:50 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/grinder/ruby_dust": {
     "criteria": {
       "has_tag_c_rubies": "2025-02-20 15:51:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-20 16:40:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/building_blocks/techreborn/sign_post_rubber": {
-    "criteria": {
-      "has_planks": "2025-02-20 17:48:41 +0000"
     },
     "done": true
   },
@@ -20006,9 +19910,51 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_interceptor": {
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
-      "has_base_block": "2025-02-20 17:59:07 +0000"
+      "has_ruby_gem": "2025-02-20 15:51:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-20 16:08:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-20 16:31:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-20 16:32:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-20 16:39:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-20 16:39:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-20 16:40:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-20 16:40:53 +0000"
     },
     "done": true
   },
@@ -20018,15 +19964,75 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-02-20 16:44:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-02-20 16:47:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2025-02-20 17:26:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:ironfurnace": {
+    "criteria": {
+      "crit_0": "2025-02-20 17:26:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_trapdoor": {
     "criteria": {
       "has_rubber_planks": "2025-02-20 17:48:41 +0000"
     },
     "done": true
   },
-  "indrev:nikolite": {
+  "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
     "criteria": {
-      "checkInv": "2025-02-20 16:44:50 +0000"
+      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_slab": {
+    "criteria": {
+      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
+    "criteria": {
+      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_button": {
+    "criteria": {
+      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
+    "criteria": {
+      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/techreborn/sign_post_rubber": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
+    "criteria": {
+      "has_rubber_planks": "2025-02-20 17:48:41 +0000"
     },
     "done": true
   },
@@ -20036,15 +20042,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+  "botania:recipes/redstone/red_string_interceptor": {
     "criteria": {
-      "has_ruby_gem": "2025-02-20 15:51:30 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/lost_eye": {
-    "criteria": {
-      "lost_eye": "2025-02-20 16:32:25 +0000"
+      "has_base_block": "2025-02-20 17:59:07 +0000"
     },
     "done": true
   },
