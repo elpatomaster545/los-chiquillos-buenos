@@ -16378,6 +16378,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-19 19:56:43 +0000",
+      "betternether:bone_reef": "2025-02-21 01:56:37 +0000",
       "betternether:upside_down_forest_cleared": "2025-02-19 20:01:36 +0000",
       "betternether:gravel_desert": "2025-02-17 17:25:46 +0000",
       "betternether:crimson_pinewood": "2025-02-19 20:02:15 +0000",
@@ -16388,7 +16389,9 @@
       "betternether:nether_jungle": "2025-02-17 17:26:45 +0000",
       "betternether:nether_swampland_terraces": "2025-02-19 19:51:08 +0000",
       "betternether:wart_forest": "2025-02-20 00:35:44 +0000",
-      "betternether:soul_plain": "2025-02-19 19:56:46 +0000"
+      "betternether:old_warped_woods": "2025-02-21 01:55:03 +0000",
+      "betternether:soul_plain": "2025-02-19 19:56:46 +0000",
+      "betternether:sulfuric_bone_reef": "2025-02-21 01:54:27 +0000"
     },
     "done": false
   },
@@ -16948,7 +16951,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-19 20:03:20 +0000",
-      "minecraft:nether_wastes": "2025-02-17 18:23:38 +0000"
+      "minecraft:nether_wastes": "2025-02-17 18:23:38 +0000",
+      "minecraft:soul_sand_valley": "2025-02-21 01:50:28 +0000"
     },
     "done": false
   },
@@ -20249,6 +20253,30 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-02-21 01:26:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-21 01:58:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-02-21 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-21 01:58:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bone_stalactite_bone_block": {
+    "criteria": {
+      "has_bone_stalactite": "2025-02-21 01:57:41 +0000"
     },
     "done": true
   },

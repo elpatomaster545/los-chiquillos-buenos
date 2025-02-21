@@ -2531,3 +2531,12 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [01:41:34] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 2.5896351518197633
 [01:41:34] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 3.894475066599881
 [01:41:34] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 5.080654210137022
+[01:54:22] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=1096, minY=22, minZ=-24, maxX=1256, maxY=96, maxZ=136}
+[01:54:44] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=1130, minY=22, minZ=-902, maxX=1286, maxY=96, maxZ=-746}
+[01:58:32] [Server thread/INFO]: moreracamilo has made the advancement [A Terrible Fortress]
+[02:01:48] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[02:01:51] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[02:02:02] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[02:02:32] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[02:02:38] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[02:02:57] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
