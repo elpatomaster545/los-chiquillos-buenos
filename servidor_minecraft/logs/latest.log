@@ -2458,3 +2458,6 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [00:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
 [00:07:12] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [00:07:12] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[00:21:11] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[00:24:06] [Server thread/INFO]: Villager class_1646['Edyth'/1831, l='ServerLevel[New World]', x=80.21, y=-7.00, z=155.51] died, message: 'Edyth was slain by Zombie'
+[00:24:06] [Server thread/INFO]: Named entity class_1646['Edyth'/1831, l='ServerLevel[New World]', x=80.21, y=-7.00, z=155.51] died: Edyth was slain by Zombie
