@@ -603,6 +603,7 @@
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "deciduous_forest": "2025-02-20 16:39:40 +0000",
       "boreal_forest": "2025-02-17 19:10:25 +0000",
+      "glistering_meadow": "2025-02-21 02:12:30 +0000",
       "towering_cliffs": "2025-02-19 17:31:44 +0000",
       "infernal_holt": "2025-02-17 18:20:00 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
@@ -16542,7 +16543,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-02-17 17:29:35 +0000",
-      "infernal_holt": "2025-02-17 18:20:00 +0000"
+      "infernal_holt": "2025-02-17 18:20:00 +0000",
+      "glistering_meadow": "2025-02-21 02:12:30 +0000"
     },
     "done": false
   },
@@ -20274,6 +20276,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-02-21 02:10:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/aluminum_plate": {
     "criteria": {
       "has_tag_c_aluminum_ingots": "2025-02-21 02:00:16 +0000"
@@ -20301,6 +20309,12 @@
   "betternether:recipes/decorations/bone_stalactite_bone_block": {
     "criteria": {
       "has_bone_stalactite": "2025-02-21 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-21 02:09:35 +0000"
     },
     "done": true
   },
