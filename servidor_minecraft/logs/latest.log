@@ -2510,3 +2510,36 @@ BCLib - Nether BiomeSource (52c39bb7)
 [21:54:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [21:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7088ms or 141 ticks behind
 [21:56:14] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[22:26:35] [Server thread/INFO]: elpatomaster was slain by Zombified Piglin
+[22:26:54] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[22:26:54] [Server thread/INFO]: elpatomaster left the game
+[22:26:54] [Server thread/INFO]: remove player wand
+[22:26:54] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[22:29:47] [User Authenticator #2/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[22:29:47] [Server thread/INFO]: [Handshake] Sending channel query
+[22:29:47] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[22:29:47] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[22:29:47] [Server thread/INFO]: elpatomaster[/10.241.83.103:59643] logged in with entity id 9651 at (868.4656104138681, 51.0, -445.31031732789654)
+[22:29:48] [Server thread/INFO]: Sending server config values to client
+[22:29:48] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[22:29:48] [Server thread/INFO]: Loading config from file...
+[22:29:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:29:48] [Server thread/INFO]: elpatomaster joined the game
+[22:29:48] [Server thread/INFO]: Loading Configs for Sortilege
+[22:29:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:29:48] [Server thread/INFO]: PLAYER_JOIN
+[22:29:48] [Server thread/INFO]: add_player wand
+[22:29:48] [Server thread/INFO]: config sent
+[22:29:48] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[22:29:50] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[22:29:53] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[22:29:53] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[22:29:55] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[22:30:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[22:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[22:30:45] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[22:30:45] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[22:31:00] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[22:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[22:31:11] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 868.500000, 51.500000, -445.500000]
+[22:31:14] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 867, 51, -445, minecraft:the_nether
