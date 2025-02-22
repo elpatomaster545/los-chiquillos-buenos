@@ -2543,3 +2543,18 @@ BCLib - Nether BiomeSource (52c39bb7)
 [22:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
 [22:31:11] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 868.500000, 51.500000, -445.500000]
 [22:31:14] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 867, 51, -445, minecraft:the_nether
+[22:31:59] [Server thread/INFO]: [elpatomaster: Set 48 experience levels on elpatomaster]
+[22:36:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=995, y=100, z=16} but found not block entity block Block{minecraft:air} at location
+[22:36:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=995, y=100, z=16}
+[22:36:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1071, y=20, z=24} but found not block entity block Block{minecraft:air} at location
+[22:36:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=1071, y=20, z=24}
+[22:42:52] [Server thread/INFO]: [elpatomaster: Set own game mode to Spectator Mode]
+[22:45:48] [Server thread/INFO]: elpatomaster has made the advancement [A fortress? No, a citadel!]
+[22:51:00] [Worker-Main-9/WARN]: Skipping Entity with id betternether:chair
+[22:51:00] [Worker-Main-9/WARN]: Skipping Entity with id betternether:chair
+[22:51:00] [Worker-Main-9/WARN]: Skipping Entity with id betternether:chair
+[22:51:00] [Worker-Main-9/WARN]: Skipping Entity with id betternether:chair
+[22:51:02] [Worker-Main-8/WARN]: Skipping Entity with id betternether:chair
+[22:51:02] [Worker-Main-8/WARN]: Skipping Entity with id betternether:chair
+[22:51:02] [Worker-Main-8/WARN]: Skipping Entity with id betternether:chair
+[22:51:02] [Worker-Main-8/WARN]: Skipping Entity with id betternether:chair
