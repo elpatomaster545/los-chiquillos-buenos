@@ -20318,5 +20318,11 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-02-22 22:19:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
