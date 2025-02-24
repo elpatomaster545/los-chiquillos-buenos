@@ -20485,6 +20485,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
@@ -20503,9 +20515,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
     },
     "done": true
   },
@@ -20521,9 +20545,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
     },
     "done": true
   },
@@ -20539,9 +20587,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
     },
     "done": true
   },
@@ -20560,6 +20638,12 @@
   "soulsweapons:lord_soul": {
     "criteria": {
       "condition_0": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
     },
     "done": true
   },
@@ -20629,15 +20713,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonveil": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
     },
     "done": true
   },
@@ -20668,6 +20776,12 @@
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
     },
     "done": true
   },
