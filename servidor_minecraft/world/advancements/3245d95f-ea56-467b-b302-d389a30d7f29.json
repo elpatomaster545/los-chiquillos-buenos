@@ -21559,18 +21559,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2025-02-24 06:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-02-24 06:15:15 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-02-24 06:12:39 +0000"
@@ -21583,27 +21571,33 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-02-24 06:15:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-02-24 06:23:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-02-24 06:12:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-02-24 06:15:15 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2025-02-24 06:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-02-24 06:15:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-02-24 06:15:33 +0000"
     },
     "done": true
   },
@@ -21616,6 +21610,12 @@
   "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2025-02-24 06:15:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-02-24 06:23:24 +0000"
     },
     "done": true
   },
