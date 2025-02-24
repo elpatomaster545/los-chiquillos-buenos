@@ -21655,9 +21655,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-24 15:37:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
     },
     "done": true
   },
@@ -21721,6 +21739,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-24 15:37:59 +0000"
@@ -21763,9 +21787,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-24 15:37:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_planks": "2025-02-24 16:04:29 +0000"
     },
     "done": true
   },
@@ -21787,9 +21847,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/peridot_dust": {
+    "criteria": {
+      "has_tag_c_peridot_gems": "2025-02-24 16:07:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-24 15:37:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 16:07:52 +0000"
     },
     "done": true
   },
