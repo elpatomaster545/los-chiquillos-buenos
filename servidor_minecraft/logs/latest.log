@@ -2515,3 +2515,4 @@ BCLib - Nether BiomeSource (218d7f03)
 [04:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9621ms or 192 ticks behind
 [04:37:31] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [04:37:31] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[04:45:15] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
