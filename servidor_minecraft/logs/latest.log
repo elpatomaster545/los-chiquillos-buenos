@@ -2514,3 +2514,4 @@ BCLib - Nether BiomeSource (5ef1ecfb)
 [17:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13670ms or 273 ticks behind
 [18:04:26] [Server thread/INFO]: Villager class_1646['Casey'/180, l='ServerLevel[New World]', x=105.14, y=72.00, z=233.96] died, message: 'Casey was electrocuted'
 [18:04:26] [Server thread/INFO]: Named entity class_1646['Casey'/180, l='ServerLevel[New World]', x=105.14, y=72.00, z=233.96] died: Casey was electrocuted
+[18:21:58] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
