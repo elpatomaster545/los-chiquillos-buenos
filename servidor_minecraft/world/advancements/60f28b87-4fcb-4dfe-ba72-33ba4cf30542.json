@@ -3080,6 +3080,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-02-24 23:29:38 +0000",
       "bread": "2025-02-11 21:18:23 +0000",
       "golden_apple": "2025-02-21 01:59:11 +0000",
       "golden_carrot": "2025-02-19 18:54:22 +0000",
@@ -14401,6 +14402,12 @@
   "techreborn:recipes/centrifuge/magma_cream": {
     "criteria": {
       "has_magma_cream": "2025-02-24 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-24 23:31:56 +0000"
     },
     "done": true
   },

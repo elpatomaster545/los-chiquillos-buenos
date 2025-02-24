@@ -2546,3 +2546,12 @@ BCLib - Nether BiomeSource (66ec7b37)
 [23:22:06] [Server thread/INFO]: elpatomaster has made the advancement [Not Too Hot to Handle]
 [23:27:48] [Server thread/INFO]: Villager class_1646['Scot'/13144, l='ServerLevel[New World]', x=76.38, y=15.75, z=316.70] died, message: 'Scot was slain by Ghoul'
 [23:27:48] [Server thread/INFO]: Named entity class_1646['Scot'/13144, l='ServerLevel[New World]', x=76.38, y=15.75, z=316.70] died: Scot was slain by Ghoul
+[23:30:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[23:30:28] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[23:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23:31:56] [Server thread/INFO]: moreracamilo has made the advancement [Take Aim]
+[23:33:23] [Server thread/INFO]: Villager class_1646['Nick'/124, l='ServerLevel[New World]', x=-8.50, y=86.00, z=10.01] died, message: 'Nick was pricked to death'
+[23:33:23] [Server thread/INFO]: Named entity class_1646['Nick'/124, l='ServerLevel[New World]', x=-8.50, y=86.00, z=10.01] died: Nick was pricked to death
+[23:36:12] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=-686, minY=22, minZ=82, maxX=-514, maxY=96, maxZ=254}
+[23:36:34] [Server thread/INFO]: moreracamilo has made the advancement [Those Were the Days]
+[23:38:02] [Server thread/INFO]: moreracamilo has made the advancement [War Pigs]
