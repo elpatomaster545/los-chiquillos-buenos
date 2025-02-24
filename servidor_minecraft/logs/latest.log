@@ -2516,3 +2516,39 @@ BCLib - Nether BiomeSource (5ef1ecfb)
 [18:04:26] [Server thread/INFO]: Named entity class_1646['Casey'/180, l='ServerLevel[New World]', x=105.14, y=72.00, z=233.96] died: Casey was electrocuted
 [18:21:58] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [18:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[18:43:57] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[18:43:57] [Server thread/INFO]: elpatomaster left the game
+[18:43:57] [Server thread/INFO]: remove player wand
+[18:43:57] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:44:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:44:03] [Server thread/INFO]: tickspeed<--[HERE]
+[18:44:07] [User Authenticator #2/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:44:07] [Server thread/INFO]: [Handshake] Sending channel query
+[18:44:07] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[18:44:07] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[18:44:08] [Server thread/INFO]: elpatomaster[/10.241.215.23:53927] logged in with entity id 13579 at (650.6999999880791, -41.0, 90.5038903307379)
+[18:44:08] [Server thread/INFO]: Sending server config values to client
+[18:44:08] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[18:44:08] [Server thread/INFO]: Loading config from file...
+[18:44:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:44:09] [Server thread/INFO]: elpatomaster joined the game
+[18:44:09] [Server thread/INFO]: Loading Configs for Sortilege
+[18:44:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:44:09] [Server thread/INFO]: PLAYER_JOIN
+[18:44:09] [Server thread/INFO]: add_player wand
+[18:44:09] [Server thread/INFO]: config sent
+[18:44:09] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:44:10] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[18:44:11] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[18:44:11] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[18:44:16] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[18:44:27] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[18:44:27] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[18:44:28] [Server Watchdog/WARN]: Suppressing EXPERIMENTAL level lifecycle
+[18:44:29] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/los-chiquillos-buenos/servidor_minecraft/./crash-reports/crash-2025-02-24_18.44.28-server.txt
+[18:44:31] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[18:44:31] [Server thread/INFO]: Resetting environment controller...
+[18:44:31] [Server thread/INFO]: Stopping server
+[18:44:31] [Server thread/INFO]: Saving players
+[18:44:31] [Server thread/INFO]: Saving worlds
+[18:44:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
