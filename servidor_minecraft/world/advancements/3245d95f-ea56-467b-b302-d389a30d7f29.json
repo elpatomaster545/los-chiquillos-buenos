@@ -20491,6 +20491,18 @@
     },
     "done": true
   },
+  "techreborn:electricfurnace": {
+    "criteria": {
+      "crit_0": "2025-02-24 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/mv_transformer": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 02:18:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
@@ -20605,6 +20617,18 @@
     },
     "done": true
   },
+  "techreborn:sap": {
+    "criteria": {
+      "crit_0": "2025-02-24 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-02-24 02:18:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
@@ -20677,6 +20701,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_sap": "2025-02-24 02:20:12 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
@@ -20704,6 +20734,12 @@
   "soulsweapons:recipes/combat/excalibur": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sap": {
+    "criteria": {
+      "has_sap": "2025-02-24 02:20:12 +0000"
     },
     "done": true
   },
@@ -20743,6 +20779,18 @@
     },
     "done": true
   },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-02-24 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_sap": {
+    "criteria": {
+      "has_sap": "2025-02-24 02:20:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-24 01:59:15 +0000"
@@ -20752,6 +20800,12 @@
   "soulsweapons:recipes/combat/dragonslayer_swordspear": {
     "criteria": {
       "has_item": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alloy_smelter": {
+    "criteria": {
+      "has_electric_furnace": "2025-02-24 02:16:31 +0000"
     },
     "done": true
   },
@@ -20776,6 +20830,12 @@
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-02-24 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lv_transformer": {
+    "criteria": {
+      "has_insulated_copper_cable": "2025-02-24 02:18:38 +0000"
     },
     "done": true
   },
