@@ -20869,9 +20869,129 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/rock_cutter": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
+    "criteria": {
+      "has_oak_shrub": "2025-02-24 05:35:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_incandescent": {
+    "criteria": {
+      "has_copper_cable": "2025-02-24 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/energy_storage_upgrade": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/low_voltage_su": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:coppercable": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:39:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard_clear": {
     "criteria": {
       "has_item": "2025-02-24 05:20:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/water_mill": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/electric_treetap": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:rubber": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_jackhammer": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:cellbattery": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_chainsaw": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/thermal_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_drill": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
     },
     "done": true
   },
