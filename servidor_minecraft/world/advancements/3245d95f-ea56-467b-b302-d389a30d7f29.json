@@ -21793,6 +21793,12 @@
     },
     "done": true
   },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-02-24 15:50:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-24 15:37:59 +0000"
@@ -21850,6 +21856,12 @@
   "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-24 15:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-02-24 15:50:27 +0000"
     },
     "done": true
   },
