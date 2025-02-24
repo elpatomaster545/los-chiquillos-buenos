@@ -592,6 +592,7 @@
       "mycotoxic_undergrowth": "2025-02-17 17:29:31 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
       "sparse_redwoods": "2025-02-16 15:55:47 +0000",
+      "glistering_meadow": "2025-02-24 01:38:34 +0000",
       "infernal_holt": "2025-02-17 18:20:04 +0000",
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "cold_boreal_taiga": "2025-02-19 18:44:36 +0000",
@@ -5432,6 +5433,7 @@
       "minecraft:skeleton": "2025-02-11 21:37:44 +0000",
       "minecraft:ravager": "2025-02-15 23:07:17 +0000",
       "minecraft:vindicator": "2025-02-15 22:26:40 +0000",
+      "minecraft:magma_cube": "2025-02-24 01:26:59 +0000",
       "minecraft:spider": "2025-02-13 02:09:28 +0000",
       "minecraft:piglin_brute": "2025-02-17 18:15:42 +0000",
       "minecraft:creeper": "2025-02-15 21:38:29 +0000",
@@ -13712,7 +13714,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-02-17 17:29:31 +0000",
-      "infernal_holt": "2025-02-17 18:20:04 +0000"
+      "infernal_holt": "2025-02-17 18:20:04 +0000",
+      "glistering_meadow": "2025-02-24 01:38:34 +0000"
     },
     "done": false
   },
@@ -14285,6 +14288,84 @@
   "simplyswords:whisperwind": {
     "criteria": {
       "requirement": "2025-02-21 02:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-24 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-24 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-24 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-24 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-24 01:26:03 +0000"
     },
     "done": true
   },
