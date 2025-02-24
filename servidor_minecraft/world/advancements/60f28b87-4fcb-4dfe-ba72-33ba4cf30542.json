@@ -14308,15 +14308,27 @@
     },
     "done": true
   },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
     "criteria": {
-      "has_blaze_rod": "2025-02-24 01:33:04 +0000"
+      "has_core_specification_item": "2025-02-24 01:26:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
-      "has_magma_cream": "2025-02-24 01:51:04 +0000"
+      "has_item": "2025-02-24 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-24 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 01:33:04 +0000"
     },
     "done": true
   },
@@ -14326,39 +14338,15 @@
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
-    "criteria": {
-      "has_core_specification_item": "2025-02-24 01:26:03 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-02-24 01:33:04 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
-    "criteria": {
-      "has_magma_cream": "2025-02-24 01:51:04 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/magma_cream": {
-    "criteria": {
-      "has_magma_cream": "2025-02-24 01:51:04 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-02-24 01:33:04 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "condition_0": "2025-02-24 01:48:01 +0000"
     },
     "done": true
   },
@@ -14380,9 +14368,15 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
+  "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
-      "has_item": "2025-02-24 01:26:03 +0000"
+      "has_item": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-02-24 01:48:01 +0000"
     },
     "done": true
   },
@@ -14392,15 +14386,21 @@
     },
     "done": false
   },
-  "botania:recipes/building_blocks/blaze_block": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_item": "2025-02-24 01:33:04 +0000"
+      "has_magma_cream": "2025-02-24 01:51:04 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-02-24 01:26:03 +0000"
+      "has_magma_cream": "2025-02-24 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-02-24 01:51:04 +0000"
     },
     "done": true
   },

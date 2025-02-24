@@ -2515,3 +2515,23 @@ BCLib - Nether BiomeSource (66ec7b37)
 [22:34:49] [Server thread/INFO]: elpatomaster has made the advancement [A Bone to Pick]
 [22:34:49] [Server thread/INFO]: elpatomaster has made the advancement [Professional Dungeoneer]
 [22:35:07] [pool-40-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos class_2338{x=1035, y=71, z=5}
+[23:00:33] [User Authenticator #2/INFO]: UUID of player moreracamilo is 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[23:00:33] [Server thread/INFO]: [Handshake] Sending channel query
+[23:00:33] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[23:00:33] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[23:00:33] [Server thread/INFO]: moreracamilo[/10.241.166.48:50118] logged in with entity id 9469 at (93.45904427523537, 73.0, 215.701137747168)
+[23:00:33] [Server thread/INFO]: Sending server config values to client
+[23:00:33] [Server thread/INFO]: Syncing config to moreracamilo (60f28b87-4fcb-4dfe-ba72-33ba4cf30542)
+[23:00:33] [Server thread/INFO]: Loading config from file...
+[23:00:34] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:00:34] [Server thread/INFO]: moreracamilo joined the game
+[23:00:34] [Server thread/INFO]: Loading Configs for Sortilege
+[23:00:34] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:00:34] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[23:00:34] [Server thread/INFO]: PLAYER_JOIN
+[23:00:34] [Server thread/INFO]: add_player wand
+[23:00:34] [Server thread/INFO]: config sent
+[23:00:36] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[23:00:54] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: moreracamilo -> Global
+[23:00:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player moreracamilo. Claiming: GRAVE / Robbing: INVENTORY
+[23:00:58] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
