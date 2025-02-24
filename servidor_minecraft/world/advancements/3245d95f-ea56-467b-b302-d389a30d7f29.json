@@ -20869,6 +20869,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-24 05:50:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/rock_cutter": {
     "criteria": {
       "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
@@ -20884,6 +20896,12 @@
   "techreborn:recipes/crafting_table/machine/lamp_incandescent": {
     "criteria": {
       "has_copper_cable": "2025-02-24 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
     },
     "done": true
   },
@@ -20905,9 +20923,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
+    "criteria": {
+      "has_grinder": "2025-02-24 05:41:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
     },
     "done": true
   },
@@ -20923,9 +20959,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/water_mill": {
     "criteria": {
       "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
     },
     "done": true
   },
@@ -20935,9 +20995,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:industrialsolar": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/diesel_generator": {
     "criteria": {
       "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-02-24 05:50:52 +0000"
     },
     "done": true
   },
@@ -20953,6 +21055,12 @@
     },
     "done": true
   },
+  "techreborn:generator": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:43:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:rubber": {
     "criteria": {
       "crit_0": "2025-02-24 05:38:39 +0000"
@@ -20965,15 +21073,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:cellbattery": {
     "criteria": {
       "crit_0": "2025-02-24 05:39:26 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/basic_chainsaw": {
     "criteria": {
       "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:grinder": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel": {
+    "criteria": {
+      "has_industrial_solar_panel": "2025-02-24 05:46:18 +0000"
     },
     "done": true
   },
@@ -20986,6 +21130,18 @@
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate": {
+    "criteria": {
+      "has_tag_c_diamond_dusts": "2025-02-24 05:45:35 +0000"
     },
     "done": true
   },
