@@ -22065,5 +22065,17 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-24 23:18:09 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-02-24 23:22:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
