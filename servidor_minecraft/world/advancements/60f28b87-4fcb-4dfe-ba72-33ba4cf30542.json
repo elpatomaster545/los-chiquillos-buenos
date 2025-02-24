@@ -13703,11 +13703,15 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-02-21 01:56:39 +0000",
+      "betternether:wart_forest_edge": "2025-02-24 01:42:17 +0000",
       "betternether:gravel_desert": "2025-02-17 17:25:50 +0000",
+      "betternether:nether_swampland": "2025-02-24 01:44:09 +0000",
       "betternether:upside_down_forest": "2025-02-17 18:27:06 +0000",
       "betternether:nether_jungle": "2025-02-17 17:26:56 +0000",
+      "betternether:wart_forest": "2025-02-24 01:43:52 +0000",
       "betternether:old_warped_woods": "2025-02-21 01:55:04 +0000",
-      "betternether:sulfuric_bone_reef": "2025-02-21 01:54:30 +0000"
+      "betternether:sulfuric_bone_reef": "2025-02-21 01:54:30 +0000",
+      "betternether:soul_plain": "2025-02-24 01:42:22 +0000"
     },
     "done": false
   },
@@ -14309,6 +14313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-24 01:51:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-24 01:33:04 +0000"
@@ -14327,9 +14337,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-02-24 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-02-24 01:51:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-02-24 01:33:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-02-24 01:48:01 +0000"
     },
     "done": true
   },
@@ -14356,6 +14384,12 @@
       "has_item": "2025-02-24 01:26:03 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-02-24 01:48:30 +0000"
+    },
+    "done": false
   },
   "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
