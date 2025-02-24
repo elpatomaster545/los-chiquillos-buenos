@@ -8475,9 +8475,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2025-02-19 00:31:57 +0000",
       "in_better_spider_dungeon": "2025-02-13 02:35:25 +0000",
-      "in_better_monster_room": "2025-02-15 21:35:26 +0000"
+      "in_better_monster_room": "2025-02-15 21:35:26 +0000",
+      "in_better_skeleton_dungeon": "2025-02-24 22:34:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
@@ -22054,6 +22055,12 @@
   "promenade:recipes/stonecutting/blunite/slab": {
     "criteria": {
       "has_blunite": "2025-02-24 18:23:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-02-24 22:34:49 +0000"
     },
     "done": true
   },
