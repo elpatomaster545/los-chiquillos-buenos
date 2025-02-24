@@ -20869,6 +20869,288 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-02-24 05:20:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
+    "criteria": {
+      "has_oak_shrub": "2025-02-24 05:35:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:rubber": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-24 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_incandescent": {
+    "criteria": {
+      "has_copper_cable": "2025-02-24 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:coppercable": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/rock_cutter": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/energy_storage_upgrade": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/low_voltage_su": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/electric_treetap": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_jackhammer": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:cellbattery": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_chainsaw": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_drill": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/water_mill": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/thermal_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
+    "criteria": {
+      "has_grinder": "2025-02-24 05:41:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:grinder": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:generator": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:43:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate": {
+    "criteria": {
+      "has_tag_c_diamond_dusts": "2025-02-24 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel": {
+    "criteria": {
+      "has_industrial_solar_panel": "2025-02-24 05:46:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:industrialsolar": {
+    "criteria": {
+      "crit_0": "2025-02-24 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-02-24 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-24 05:50:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-02-24 05:50:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
@@ -20881,39 +21163,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
-    "criteria": {
-      "has_coal_dust": "2025-02-24 05:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-02-24 05:50:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/rock_cutter": {
-    "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
     },
     "done": true
   },
@@ -20923,57 +21175,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/track_switch_andesite": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
-    "criteria": {
-      "has_oak_shrub": "2025-02-24 05:35:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lamp_incandescent": {
-    "criteria": {
-      "has_copper_cable": "2025-02-24 05:39:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
-    "criteria": {
-      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
-    "criteria": {
-      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
     },
     "done": true
   },
@@ -20989,24 +21193,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/upgrade/energy_storage_upgrade": {
-    "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/low_voltage_su": {
-    "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
@@ -21019,33 +21205,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
-    "criteria": {
-      "has_grinder": "2025-02-24 05:41:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
-    "criteria": {
-      "has_rubber": "2025-02-24 05:38:39 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
     },
     "done": true
   },
@@ -21061,63 +21223,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:coppercable": {
-    "criteria": {
-      "crit_0": "2025-02-24 05:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-24 06:04:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/clipboard_clear": {
-    "criteria": {
-      "has_item": "2025-02-24 05:20:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
-    "criteria": {
-      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/water_mill": {
-    "criteria": {
-      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
     },
     "done": true
   },
@@ -21139,12 +21253,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
@@ -21157,33 +21265,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/sapphire_dust": {
-    "criteria": {
-      "has_tag_c_sapphires": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
-    "criteria": {
-      "has_copper_plate": "2025-02-24 06:01:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/implosion_compressor/diamond": {
-    "criteria": {
-      "has_diamond_dust": "2025-02-24 05:45:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
-    "criteria": {
-      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
     },
     "done": true
   },
@@ -21199,39 +21283,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:industrialsolar": {
-    "criteria": {
-      "crit_0": "2025-02-24 05:46:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearshift": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
     },
     "done": true
   },
@@ -21241,63 +21295,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/kelp": {
-    "criteria": {
-      "has_kelp": "2025-02-24 06:04:54 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/diesel_generator": {
-    "criteria": {
-      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
-    "criteria": {
-      "has_coal_dust": "2025-02-24 05:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-24 06:04:54 +0000"
     },
     "done": true
   },
@@ -21313,12 +21313,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-24 06:04:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
@@ -21331,57 +21325,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/coal_plate_from_block": {
-    "criteria": {
-      "has_coal_block": "2025-02-24 05:50:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
-    "criteria": {
-      "has_rubber": "2025-02-24 05:38:39 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/electric_treetap": {
-    "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:generator": {
-    "criteria": {
-      "crit_0": "2025-02-24 05:43:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:rubber": {
-    "criteria": {
-      "crit_0": "2025-02-24 05:38:39 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/basic_jackhammer": {
-    "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
     },
     "done": true
   },
@@ -21391,39 +21337,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/coal_plate": {
-    "criteria": {
-      "has_tag_c_coal_dusts": "2025-02-24 05:47:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:cellbattery": {
-    "criteria": {
-      "crit_0": "2025-02-24 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/electronic_circuit": {
-    "criteria": {
-      "has_copper_plate": "2025-02-24 06:01:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
-    "criteria": {
-      "has_coal_dust": "2025-02-24 05:47:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
     },
     "done": true
   },
@@ -21439,63 +21355,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/basic_chainsaw": {
-    "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
-    "criteria": {
-      "has_kelp": "2025-02-24 06:04:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-02-24 05:57:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:grinder": {
-    "criteria": {
-      "crit_0": "2025-02-24 05:43:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
-    "criteria": {
-      "has_item": "2025-02-24 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel": {
-    "criteria": {
-      "has_industrial_solar_panel": "2025-02-24 05:46:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/thermal_generator": {
-    "criteria": {
-      "has_solid_fuel_generator": "2025-02-24 05:39:57 +0000"
     },
     "done": true
   },
@@ -21511,12 +21379,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
-    "criteria": {
-      "has_rubber": "2025-02-24 05:38:39 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
@@ -21529,21 +21391,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
-    "criteria": {
-      "has_sapphire_gem": "2025-02-24 05:42:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-02-24 05:54:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/diamond_plate": {
-    "criteria": {
-      "has_tag_c_diamond_dusts": "2025-02-24 05:45:35 +0000"
     },
     "done": true
   },
@@ -21553,9 +21403,219 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/basic_drill": {
+  "create:andesite_casing": {
     "criteria": {
-      "has_red_cell_battery": "2025-02-24 05:39:26 +0000"
+      "0": "2025-02-24 05:57:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-02-24 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_copper_plate": "2025-02-24 06:01:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/electronic_circuit": {
+    "criteria": {
+      "has_copper_plate": "2025-02-24 06:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-24 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-24 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-24 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-02-24 06:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-02-24 06:15:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-24 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartysand_bucket_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-24 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-02-24 06:15:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-02-24 06:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-24 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-02-24 06:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-02-24 06:15:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-02-24 06:15:33 +0000"
     },
     "done": true
   },
