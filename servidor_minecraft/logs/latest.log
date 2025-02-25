@@ -9,3 +9,127 @@
 [00:00:44] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
 [00:00:45] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
 [00:00:54] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 176, 25, 614, minecraft:the_nether
+[00:01:53] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:01:55] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:01:57] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:01:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:02:05] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 184, 24, 625, minecraft:the_nether
+[00:02:17] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:02:20] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:02:22] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:02:24] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:02:24] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:02:27] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 177, 19, 623, minecraft:the_nether
+[00:02:41] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:02:42] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:02:44] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:02:45] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:02:49] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 174, 19, 625, minecraft:the_nether
+[00:02:53] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:02:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:02:57] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:02:57] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:03:06] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 166, 19, 622, minecraft:the_nether
+[00:03:32] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:03:33] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:03:36] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:03:36] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:03:43] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 182, 23, 630, minecraft:the_nether
+[00:03:55] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:03:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:03:59] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:03:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:04:06] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 172, 18, 625, minecraft:the_nether
+[00:04:49] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:04:49] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:04:49] [Netty Epoll Server IO #4/ERROR]: Combo count: 4 is dual wielding: false
+[00:04:49] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[00:04:49] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[00:04:49] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 2 | client: 2
+[00:04:52] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:04:56] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:04:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:05:03] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:05:04] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 157, 21, 620, minecraft:the_nether
+[00:05:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:05:06] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:05:06] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:05:12] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:05:12] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:05:12] [Netty Epoll Server IO #4/ERROR]: Combo count: 0 is dual wielding: false
+[00:05:12] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[00:05:12] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[00:05:12] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 2 | client: 2
+[00:05:13] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 167, 17, 631, minecraft:the_nether
+[00:05:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:05:21] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:05:31] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:05:45] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:05:54] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 172.500000, 17.500000, 630.500000]
+[00:05:57] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 172, 17, 629, minecraft:the_nether
+[00:06:02] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:06:02] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:06:09] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 160, 21, 622, minecraft:the_nether
+[00:06:27] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:06:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:06:31] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:06:31] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:06:44] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 176, 20, 630, minecraft:the_nether
+[00:06:52] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:06:54] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:06:56] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:06:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:07:11] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:07:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:07:14] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:07:14] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:07:16] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 156, 21, 627, minecraft:the_nether
+[00:07:23] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 167, 18, 629, minecraft:the_nether
+[00:07:23] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:07:26] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:07:26] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:07:27] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:07:34] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 176, 22, 617, minecraft:the_nether
+[00:07:41] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:07:42] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:07:45] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:07:45] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:07:55] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:07:56] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 149, 26, 630, minecraft:the_nether
+[00:07:57] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:08:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:08:19] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:08:19] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:08:28] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 172, 18, 624, minecraft:the_nether
+[00:08:35] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:08:35] [Server thread/WARN]: elpatomaster moved wrongly!
+[00:08:36] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:08:39] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:08:39] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:08:46] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:08:48] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:08:48] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 178, 22, 618, minecraft:the_nether
+[00:08:50] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:08:50] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:08:58] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 162, 24, 614, minecraft:the_nether
+[00:09:18] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:09:20] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:09:20] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:09:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:09:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:09:47] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 160.500000, 75.500000, 585.500000]
+[00:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[00:10:11] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:10:11] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:10:43] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 163, 24, 614, minecraft:the_nether
+[00:10:49] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:10:53] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:10:56] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:11:02] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:11:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:11:07] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[00:11:07] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:11:13] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 181, 22, 626, minecraft:the_nether

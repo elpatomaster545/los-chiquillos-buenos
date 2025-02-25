@@ -3457,7 +3457,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-02-11 21:18:19 +0000",
-      "golden_apple": "2025-02-24 23:59:36 +0000"
+      "golden_apple": "2025-02-24 23:59:36 +0000",
+      "enchanted_golden_apple": "2025-02-25 00:04:36 +0000"
     },
     "done": false
   },
@@ -16672,7 +16673,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-02-17 17:33:28 +0000"
+      "got_nether_reed": "2025-02-17 17:33:28 +0000",
+      "got_anchor_tree": "2025-02-25 00:00:52 +0000"
     },
     "done": false
   },
@@ -22276,6 +22278,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/anchor_tree_bark": {
+    "criteria": {
+      "has_anchor_tree_log": "2025-02-25 00:00:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
     "criteria": {
       "has_sphalerite_dust": "2025-02-24 23:52:19 +0000"
@@ -22465,6 +22473,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 23:37:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_log": {
+    "criteria": {
+      "has_anchor_tree_bark": "2025-02-25 00:01:32 +0000"
     },
     "done": true
   },
