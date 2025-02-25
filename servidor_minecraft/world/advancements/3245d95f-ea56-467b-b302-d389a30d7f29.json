@@ -22808,9 +22808,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
@@ -22823,6 +22835,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
@@ -22871,6 +22889,12 @@
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
@@ -22999,6 +23023,12 @@
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
     },
     "done": true
+  },
+  "techreborn:upgrade": {
+    "criteria": {
+      "crit_0": "2025-02-25 17:03:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
