@@ -23163,6 +23163,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_the_recipe": "2025-02-25 20:00:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/steel_dust_from_block": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-02-25 19:53:41 +0000"
