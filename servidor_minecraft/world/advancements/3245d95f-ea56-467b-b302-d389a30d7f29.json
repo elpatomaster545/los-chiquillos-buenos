@@ -16676,7 +16676,8 @@
   "betternether:nether_wood": {
     "criteria": {
       "got_nether_reed": "2025-02-17 17:33:28 +0000",
-      "got_anchor_tree": "2025-02-25 00:00:52 +0000"
+      "got_anchor_tree": "2025-02-25 00:00:52 +0000",
+      "got_nether_sakura": "2025-02-25 19:06:02 +0000"
     },
     "done": false
   },
@@ -23029,6 +23030,36 @@
       "crit_0": "2025-02-25 17:03:23 +0000"
     },
     "done": false
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-25 18:58:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-25 18:58:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-25 18:58:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-25 18:58:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_log": {
+    "criteria": {
+      "has_nether_sakura_bark": "2025-02-25 19:06:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
