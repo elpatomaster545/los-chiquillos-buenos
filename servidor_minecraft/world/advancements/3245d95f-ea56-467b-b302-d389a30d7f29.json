@@ -22808,21 +22808,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
-    "criteria": {
-      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
-    "criteria": {
-      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
@@ -22835,12 +22823,6 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
-    "criteria": {
-      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
@@ -22889,12 +22871,6 @@
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
-    "criteria": {
-      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
@@ -23021,6 +22997,30 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-25 16:48:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-02-25 17:02:15 +0000"
     },
     "done": true
   },
