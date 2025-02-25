@@ -3458,6 +3458,7 @@
     "criteria": {
       "bread": "2025-02-11 21:18:19 +0000",
       "golden_apple": "2025-02-24 23:59:36 +0000",
+      "rotten_flesh": "2025-02-25 20:32:00 +0000",
       "enchanted_golden_apple": "2025-02-25 00:04:36 +0000"
     },
     "done": false
@@ -23079,6 +23080,12 @@
     },
     "done": true
   },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-02-25 21:15:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/steel_plate_from_block": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-02-25 19:53:41 +0000"
@@ -23097,9 +23104,38 @@
     },
     "done": true
   },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-02-25 21:15:36 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-02-25 19:26:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-02-25 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "pollinated_pillar": "2025-02-25 21:09:41 +0000",
+      "crystal_canyon": "2025-02-25 21:22:29 +0000",
+      "sugar_water_floor": "2025-02-25 21:19:47 +0000",
+      "hive_pillar": "2025-02-25 21:00:51 +0000",
+      "hive_wall": "2025-02-25 21:00:08 +0000",
+      "pollinated_fields": "2025-02-25 21:01:22 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
+    "criteria": {
+      "obtain_sticky_honey_redstone": "2025-02-25 21:15:16 +0000"
     },
     "done": true
   },
@@ -23121,15 +23157,69 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-02-25 21:16:07 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-02-25 21:10:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_boots": {
+    "criteria": {
+      "has_honey_block": "2025-02-25 21:23:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-25 20:53:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-25 21:16:47 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/netherite_candelabra": {
     "criteria": {
       "has_item": "2025-02-25 19:51:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-02-25 21:23:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-02-25 20:53:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 20:53:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-02-25 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-25 21:15:36 +0000"
     },
     "done": true
   },
@@ -23151,9 +23241,51 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-02-25 20:53:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_chestplate": {
+    "criteria": {
+      "has_honey_block": "2025-02-25 21:23:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-02-25 20:31:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-02-25 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2025-02-25 21:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 21:09:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_leggings": {
+    "criteria": {
+      "has_honey_block": "2025-02-25 21:23:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-02-25 20:38:49 +0000"
     },
     "done": true
   },
@@ -23163,9 +23295,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/slime_ball_from_sticky_piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-02-25 20:53:10 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-02-25 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-02-25 20:53:56 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
       "has_the_recipe": "2025-02-25 20:00:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-02-25 21:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-25 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-25 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-25 21:15:36 +0000"
     },
     "done": true
   },
@@ -23175,11 +23349,41 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-02-25 21:20:42 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/gilded_netherite_fragment_recipe": {
     "criteria": {
       "got_the_netherite_fragment": "2025-02-25 19:51:50 +0000"
     },
     "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-25 20:53:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 21:09:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_helmet": {
+    "criteria": {
+      "has_honey_block": "2025-02-25 21:23:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_honey_cave_room": "2025-02-25 21:14:10 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
@@ -23199,9 +23403,39 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-02-25 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 21:09:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-25 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-02-25 20:53:01 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-02-25 19:25:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-25 21:16:47 +0000"
     },
     "done": true
   },

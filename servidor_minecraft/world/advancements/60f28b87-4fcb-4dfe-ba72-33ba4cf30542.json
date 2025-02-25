@@ -592,6 +592,7 @@
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
       "mycotoxic_undergrowth": "2025-02-17 17:29:31 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
+      "magnolia_highlands": "2025-02-25 20:56:25 +0000",
       "sparse_redwoods": "2025-02-16 15:55:47 +0000",
       "glistering_meadow": "2025-02-24 01:38:34 +0000",
       "infernal_holt": "2025-02-17 18:20:04 +0000",
@@ -618,6 +619,7 @@
       "blackwood_taiga": "2025-02-11 21:36:03 +0000",
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
+      "magnolia_highlands": "2025-02-25 20:56:25 +0000",
       "sparse_redwoods": "2025-02-16 15:55:47 +0000",
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "cold_boreal_taiga": "2025-02-19 18:44:36 +0000",
@@ -3964,6 +3966,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-02-25 20:55:17 +0000",
       "willow_log": "2025-02-13 02:21:34 +0000",
       "pine_log": "2025-02-16 05:54:32 +0000",
       "maple_log": "2025-02-11 21:26:37 +0000"
@@ -5435,6 +5438,7 @@
       "minecraft:blaze": "2025-02-17 18:13:27 +0000",
       "minecraft:skeleton": "2025-02-11 21:37:44 +0000",
       "minecraft:ravager": "2025-02-15 23:07:17 +0000",
+      "minecraft:hoglin": "2025-02-25 20:40:51 +0000",
       "minecraft:vindicator": "2025-02-15 22:26:40 +0000",
       "minecraft:magma_cube": "2025-02-24 01:26:59 +0000",
       "minecraft:spider": "2025-02-13 02:09:28 +0000",
@@ -14961,6 +14965,23 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-02-25 20:55:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "pollinated_pillar": "2025-02-25 21:09:51 +0000",
+      "crystal_canyon": "2025-02-25 21:22:30 +0000",
+      "sugar_water_floor": "2025-02-25 21:19:54 +0000",
+      "hive_pillar": "2025-02-25 21:01:11 +0000",
+      "hive_wall": "2025-02-25 21:00:15 +0000",
+      "pollinated_fields": "2025-02-25 21:01:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
@@ -14973,9 +14994,27 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-02-25 21:16:28 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-02-25 21:16:30 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dark_katana": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-02-25 20:55:17 +0000"
     },
     "done": true
   },
@@ -15027,9 +15066,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-02-25 20:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 21:23:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
+    "criteria": {
+      "ancient_wax_stairs": "2025-02-25 21:03:28 +0000"
     },
     "done": true
   },
@@ -15051,9 +15108,21 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-02-25 21:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-02-25 21:24:02 +0000"
     },
     "done": true
   },
@@ -15069,6 +15138,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-02-25 21:20:29 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/gilded_netherite_fragment_recipe": {
     "criteria": {
       "got_the_netherite_fragment": "2025-02-25 19:27:48 +0000"
@@ -15081,11 +15156,29 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_sapling": "2025-02-25 20:55:27 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
     },
     "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 21:23:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_honey_cave_room": "2025-02-25 21:14:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
@@ -15096,6 +15189,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 21:23:31 +0000"
     },
     "done": true
   },
