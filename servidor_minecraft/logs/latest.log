@@ -2535,3 +2535,5 @@ BCLib - Nether BiomeSource (218d7f03)
 [15:08:00] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
 [15:08:00] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [15:08:12] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[15:16:12] [Server thread/INFO]: Villager class_1646['Cristie'/1150, l='ServerLevel[New World]', x=198.64, y=62.63, z=13.71] died, message: 'Cristie was slain by Ghoul'
+[15:16:12] [Server thread/INFO]: Named entity class_1646['Cristie'/1150, l='ServerLevel[New World]', x=198.64, y=62.63, z=13.71] died: Cristie was slain by Ghoul
