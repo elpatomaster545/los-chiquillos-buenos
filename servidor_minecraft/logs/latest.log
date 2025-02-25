@@ -2509,3 +2509,91 @@ BCLib - Nether BiomeSource (52c39bb7)
 [18:17:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [18:17:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10541ms or 210 ticks behind
 [18:19:47] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[18:35:44] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[18:35:44] [Server thread/INFO]: elpatomaster left the game
+[18:35:44] [Server thread/INFO]: remove player wand
+[18:35:44] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:35:44] [Server thread/WARN]: handleDisconnection() called twice
+[18:35:49] [User Authenticator #2/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:35:49] [Server thread/INFO]: [Handshake] Sending channel query
+[18:35:49] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[18:35:49] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[18:35:49] [Server thread/INFO]: elpatomaster[/10.241.215.23:65074] logged in with entity id 3802 at (111.06177876579032, 74.0, 222.23043925689288)
+[18:35:49] [Server thread/INFO]: Sending server config values to client
+[18:35:49] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[18:35:49] [Server thread/INFO]: Loading config from file...
+[18:35:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:35:50] [Server thread/INFO]: elpatomaster joined the game
+[18:35:50] [Server thread/INFO]: Loading Configs for Sortilege
+[18:35:50] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:35:50] [Server thread/INFO]: PLAYER_JOIN
+[18:35:50] [Server thread/INFO]: add_player wand
+[18:35:50] [Server thread/INFO]: config sent
+[18:35:50] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:35:51] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[18:35:52] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[18:35:52] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[18:35:53] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[18:42:15] [Server thread/INFO]: Stopping the server
+[18:42:15] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[18:42:15] [Server thread/INFO]: Resetting environment controller...
+[18:42:15] [Server thread/INFO]: Stopping server
+[18:42:15] [Server thread/INFO]: Saving players
+[18:42:15] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[18:42:15] [Server thread/INFO]: elpatomaster left the game
+[18:42:15] [Server thread/INFO]: remove player wand
+[18:42:15] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:42:15] [Server thread/INFO]: Saving worlds
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:earth_orbit
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mercury_orbit
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:ramparts
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:insufferable_crypt
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:promenade
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mars
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/prominent:vaaz_volcano
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:moon
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/spellbladenext:glassocean
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:glacio_orbit
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/deeperdarker:otherside
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:moon_orbit
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:glacio
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:venus_orbit
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:prison
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mercury
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mars_orbit
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/the_bumblezone:the_bumblezone
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:black_bridge
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/prominent:cinderstone_depths
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:venus
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ae2:spatial_storage
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[18:42:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:42:15] [Server thread/INFO]: Stopping IO worker...
+[18:42:15] [Server thread/INFO]: Stopped IO worker!
