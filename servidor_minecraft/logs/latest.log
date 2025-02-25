@@ -133,3 +133,85 @@
 [00:11:07] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
 [00:11:07] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [00:11:13] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 181, 22, 626, minecraft:the_nether
+[00:11:28] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[00:11:28] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:11:45] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:11:47] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[00:12:35] [Server thread/INFO]: moreracamilo lost connection: Disconnected
+[00:12:35] [Server thread/INFO]: moreracamilo left the game
+[00:12:35] [Server thread/INFO]: remove player wand
+[00:12:35] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[00:12:35] [Server thread/WARN]: handleDisconnection() called twice
+[00:13:06] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:13:08] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:13:17] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:13:24] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 183.500000, 25.500000, 638.500000]
+[00:13:27] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 183, 25, 638, minecraft:the_nether
+[00:13:32] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[00:13:33] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:13:41] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:13:45] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 173.500000, 17.500000, 632.500000]
+[00:13:47] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 174, 17, 631, minecraft:the_nether
+[00:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[00:13:49] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[00:13:49] [Server thread/INFO]: Resetting environment controller...
+[00:13:49] [Server thread/INFO]: Stopping server
+[00:13:49] [Server thread/INFO]: Saving players
+[00:13:49] [Server thread/INFO]: elpatomaster lost connection: Server closed
+[00:13:49] [Server thread/INFO]: elpatomaster left the game
+[00:13:49] [Server thread/INFO]: remove player wand
+[00:13:49] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[00:13:49] [Server thread/INFO]: Saving worlds
+[00:13:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/prominent:cinderstone_depths
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/deeperdarker:otherside
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mars_orbit
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:prison
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:moon_orbit
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:promenade
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mercury_orbit
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:ramparts
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:glacio
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:moon
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:insufferable_crypt
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:venus
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/the_bumblezone:the_bumblezone
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:black_bridge
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:glacio_orbit
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/spellbladenext:glassocean
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/prominent:vaaz_volcano
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:earth_orbit
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mars
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mercury
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:venus_orbit
+[00:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ae2:spatial_storage
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[00:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:52] [Server thread/INFO]: Stopping IO worker...
+[00:13:52] [Server thread/INFO]: Stopped IO worker!
