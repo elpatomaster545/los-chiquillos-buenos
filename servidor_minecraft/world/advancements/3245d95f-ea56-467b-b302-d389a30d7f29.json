@@ -22682,6 +22682,12 @@
     },
     "done": true
   },
+  "things:hades_crystal": {
+    "criteria": {
+      "hades_crystal": "2025-02-25 15:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-25 15:10:12 +0000"
@@ -22733,6 +22739,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-25 15:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_shrub": "2025-02-25 15:46:27 +0000"
     },
     "done": true
   },
