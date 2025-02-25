@@ -6618,6 +6618,7 @@
       "minecraft:stray": "2025-02-20 02:12:54 +0000",
       "minecraft:vex": "2025-02-17 19:44:02 +0000",
       "minecraft:zombie": "2025-02-11 21:36:50 +0000",
+      "minecraft:drowned": "2025-02-25 15:39:02 +0000",
       "minecraft:zombie_villager": "2025-02-13 16:12:02 +0000"
     },
     "done": false
@@ -22603,6 +22604,12 @@
     },
     "done": true
   },
+  "things:gleaming_compound": {
+    "criteria": {
+      "gleaming_compound": "2025-02-25 15:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-02-25 15:24:26 +0000"
@@ -22624,6 +22631,12 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
     "criteria": {
       "has_leaves": "2025-02-25 15:24:52 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-25 15:31:06 +0000"
     },
     "done": true
   },
@@ -22720,6 +22733,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-25 15:10:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-02-25 15:31:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-02-25 15:31:06 +0000"
     },
     "done": true
   },
