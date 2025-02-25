@@ -3002,3 +3002,44 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:18:52] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [19:18:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [19:19:13] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 177, 34, 660, minecraft:the_nether
+[19:20:37] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[19:20:40] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:20:51] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:21:11] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 196.500000, 36.500000, 676.500000]
+[19:21:16] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 196, 36, 676, minecraft:the_nether
+[19:22:04] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[19:22:04] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[19:22:48] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:22:48] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 172, 52, 647, minecraft:the_nether
+[19:23:07] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:23:53] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[19:23:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:24:02] [Server thread/INFO]: elpatomaster was slain by Zombie
+[19:24:02] [Server thread/INFO]: Did not backup data (grave data empty)
+[19:24:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:24:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:24:22] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 174.500000, 36.500000, 682.500000]
+[19:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[19:24:25] [Server thread/INFO]: Villager class_1646['Elissa'/23618, l='ServerLevel[New World]', x=105.89, y=75.54, z=222.60] died, message: 'Elissa was slain by Zombie'
+[19:24:25] [Server thread/INFO]: Named entity class_1646['Elissa'/23618, l='ServerLevel[New World]', x=105.89, y=75.54, z=222.60] died: Elissa was slain by Zombie
+[19:24:25] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 174, 36, 682, minecraft:the_nether
+[19:24:31] [Server thread/INFO]: Villager class_1646['Branden'/23622, l='ServerLevel[New World]', x=100.32, y=78.00, z=222.62] died, message: 'Branden was slain by Zombie'
+[19:24:31] [Server thread/INFO]: Named entity class_1646['Branden'/23622, l='ServerLevel[New World]', x=100.32, y=78.00, z=222.62] died: Branden was slain by Zombie
+[19:24:34] [Server thread/INFO]: moreracamilo was slain by Nether Gauntlet
+[19:24:37] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:24:39] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[19:24:39] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:25:02] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 177, 35, 684, minecraft:the_nether
+[19:25:02] [Server thread/INFO]: elpatomaster was slain by Nether Gauntlet
+[19:25:04] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:25:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:25:19] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 174.500000, 37.500000, 682.500000]
+[19:25:22] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 174, 37, 683, minecraft:the_nether
+[19:25:24] [Server thread/INFO]: Named entity class_1641['Branden'/24958, l='ServerLevel[New World]', x=117.85, y=71.00, z=222.16] died: Branden was slain by Iron Golem
+[19:25:50] [Server thread/INFO]: elpatomaster has made the advancement [Through the Gauntlet]
+[19:27:03] [Server thread/INFO]: elpatomaster has made the advancement [Hidden in the Depths]
+[19:28:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind

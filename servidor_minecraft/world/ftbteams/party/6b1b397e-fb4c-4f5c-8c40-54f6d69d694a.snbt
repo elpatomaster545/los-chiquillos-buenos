@@ -1,0 +1,22 @@
+{
+	id: "6b1b397e-fb4c-4f5c-8c40-54f6d69d694a"
+	type: "party"
+	owner: "3245d95f-ea56-467b-b302-d389a30d7f29"
+	ranks: {
+		3245d95f-ea56-467b-b302-d389a30d7f29: "owner"
+		60f28b87-4fcb-4dfe-ba72-33ba4cf30542: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "lospendejos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740511367867L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elpatomaster\"}]}" }
+		{ from: "3245d95f-ea56-467b-b302-d389a30d7f29", date: 1740511380621L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"moreracamilo\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740511387118L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"moreracamilo\"}]}" }
+	]
+	extra: { }
+}
