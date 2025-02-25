@@ -4977,9 +4977,10 @@
   },
   "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
     "criteria": {
+      "has_leaves": "2025-02-25 15:24:52 +0000",
       "has_snowball": "2025-02-11 21:19:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
@@ -22596,15 +22597,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-02-25 15:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-02-25 15:24:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-25 15:10:12 +0000"
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/spruce_leaf": {
+    "criteria": {
+      "has_leaves": "2025-02-25 15:24:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-02-25 15:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-25 15:10:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_vine": {
+    "criteria": {
+      "has_item": "2025-02-25 15:24:26 +0000"
     },
     "done": true
   },
@@ -22644,9 +22675,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/vine_ball": {
+    "criteria": {
+      "has_item": "2025-02-25 15:24:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-02-25 15:10:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
+    "criteria": {
+      "has_vine": "2025-02-25 15:24:26 +0000"
     },
     "done": true
   },
