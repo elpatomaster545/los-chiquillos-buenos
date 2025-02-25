@@ -581,6 +581,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-02-16 15:43:01 +0000",
+      "shrubland": "2025-02-25 19:47:28 +0000",
       "dry_bushland": "2025-02-16 16:46:52 +0000",
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
@@ -608,6 +609,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-02-16 15:43:01 +0000",
+      "shrubland": "2025-02-25 19:47:28 +0000",
       "dry_bushland": "2025-02-16 16:46:52 +0000",
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
@@ -14976,6 +14978,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-25 19:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 19:28:02 +0000"
@@ -15027,6 +15035,12 @@
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-02-25 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-25 19:46:27 +0000"
     },
     "done": true
   },
