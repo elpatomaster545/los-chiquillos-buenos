@@ -3456,7 +3456,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-11 21:18:19 +0000"
+      "bread": "2025-02-11 21:18:19 +0000",
+      "golden_apple": "2025-02-24 23:59:36 +0000"
     },
     "done": false
   },
@@ -22131,6 +22132,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-02-24 23:52:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 23:37:15 +0000"
@@ -22269,6 +22276,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-02-24 23:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-24 23:37:15 +0000"
@@ -22320,6 +22333,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 23:37:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-02-24 23:52:19 +0000"
     },
     "done": true
   },
@@ -22488,6 +22507,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-02-24 23:37:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-02-24 23:52:19 +0000"
     },
     "done": true
   },

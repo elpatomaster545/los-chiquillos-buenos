@@ -13842,6 +13842,7 @@
   "betternether:nether_wood": {
     "criteria": {
       "got_nether_reed": "2025-02-17 17:45:13 +0000",
+      "got_anchor_tree": "2025-02-24 23:59:17 +0000",
       "got_nether_mushroom": "2025-02-17 18:06:33 +0000"
     },
     "done": false
@@ -14435,6 +14436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-24 23:50:28 +0000"
@@ -14519,6 +14526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-02-24 23:50:28 +0000"
@@ -14528,6 +14541,12 @@
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2025-02-24 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
     },
     "done": true
   },
@@ -14579,6 +14598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-24 23:50:28 +0000"
@@ -14597,6 +14622,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/anchor_tree_bark": {
+    "criteria": {
+      "has_anchor_tree_log": "2025-02-24 23:59:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-24 23:50:28 +0000"
@@ -14612,6 +14643,18 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-24 23:50:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
     },
     "done": true
   },
@@ -14666,6 +14709,18 @@
   "techreborn:recipes/crafting_table/machine/rolling_machine": {
     "criteria": {
       "has_advanced_circuit": "2025-02-24 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
     },
     "done": true
   },
@@ -14744,6 +14799,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-24 23:50:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_log": {
+    "criteria": {
+      "has_anchor_tree_bark": "2025-02-25 00:00:27 +0000"
     },
     "done": true
   },
@@ -14840,6 +14901,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-24 23:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-24 23:57:38 +0000"
     },
     "done": true
   },
